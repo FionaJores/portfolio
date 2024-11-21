@@ -11,7 +11,7 @@ export default function Resume() {
                     <h1 className="text-4xl border-b-4 border-primary mb-5 w-[145px] font-bold">RESUME</h1>
                     <p className="pb-5 ">
                         YOU CAN VIEW MY RESUME 
-                        <a href="\Fiona.pdf" className="btn ml-2" download>Download</a>
+                        <a href="/Fiona.pdf" className="btn ml-2" download>Download</a>
                     </p>
                 </div>
             </div>
