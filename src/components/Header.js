@@ -5,7 +5,7 @@ import { useState } from 'react'
 export default function Header(){
     const[toggleMenu,setToggleMenu]=useState(false);
     return <header  className="flex justify-between  px-5 py-3 bg-primary">
-        <a className="font-bold text-black" href="#">Fiona</a>
+        <a className="font-bold text-black" href="/">Fiona</a>
         <nav className="hidden md:block">
         <ul className="flex text-white">
                 <li><a href="/">Home</a></li>
