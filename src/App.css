@@ -7,14 +7,14 @@ header ul li{
 }
 
 .bg-primary{
-    background:rgb(152,45,18);
+    background:rgb(71, 98, 43);
 }
 .bg-secondary{
-    background:rgb(234,163,30);
+    background:rgb(71, 41, 21);
 }
 
 .mobile-nav{
-    @apply fixed top-10 left-0 bg-[#EAA31E] w-full h-1/4;
+    @apply fixed top-10 left-0 bg-[#47622B] w-full h-1/4;
 
 }
 .mobile-nav li{
@@ -26,7 +26,7 @@ header ul li{
 }
 
 .btn{
-    @apply bg-secondary px-5 py-2 text-secondary font-bold hover:border-2 border-white rounded;
+    @apply bg-secondary px-5 py-2 text-white font-bold hover:border-2 border-white rounded;
 }
 
 html{
